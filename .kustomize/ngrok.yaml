@@ -5,4 +5,4 @@ metadata:
 spec:
   protocol: http
   service: prueba-gha
-  port: 800
+  port: 3000
